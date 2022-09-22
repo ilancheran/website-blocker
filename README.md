@@ -1,2 +1,2 @@
 # website-blocker
-Restricts certain websites on work hours to increase work productivity
+Restricts certain websites during work hours to increase work productivity
